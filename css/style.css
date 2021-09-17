@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#box {
+  margin: 30px auto;
+  border: 1px solid black;
+  width: 900px;
+  height: 600px;
+}
+
+h1 {
+  margin: 20px 20px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+table {
+  margin-left: 10px;
+  margin-top: 10px;
+  border-collapse: collapse;
+  width: 800px;
+}
+
+.cinza {
+  background-color: lightgray;
+}
+
+#imagem {
+  text-align: center;
+}
+
+img {
+  height: 250px;
+}
+
+tr:hover {
+  background-color: lightgreen;
+}
+
+td {
+  text-align: center;
+}
+
+.time {
+  text-align: left;
+}
